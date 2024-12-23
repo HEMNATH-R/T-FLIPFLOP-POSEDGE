@@ -1,4 +1,4 @@
-# T-FLIPFLOP-POSEDGE
+[# T-FLIPFLOP-POSEDGE
 
 **AIM:**
 
@@ -87,9 +87,9 @@ endmodule
 
 
 
-Developed by:YUGESH M
+Developed by:HEMNATH R
 
-RegisterNumber:24900164
+RegisterNumber:24010023
 */2
 
 **RTL LOGIC FOR FLIPFLOPS**
@@ -100,4 +100,5 @@ RegisterNumber:24900164
 
 **RESULTS**
 
-To implement T flipflop using verilog and validating their functionality using their functional tables has been successfully completed.
+To implement T flipflop using verilog and validating their functionality using their functional tables 
+has been successfully completed.
